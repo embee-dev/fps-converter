@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fps-converter/static/css/main.886aaa86.css",
+    "main.js": "/fps-converter/static/js/main.c2c2597f.js",
+    "static/js/787.79e9388d.chunk.js": "/fps-converter/static/js/787.79e9388d.chunk.js",
+    "static/media/pellet-bg.jpg": "/fps-converter/static/media/pellet-bg.f9f1f341cf965c4889fa.jpg",
+    "index.html": "/fps-converter/index.html",
+    "main.886aaa86.css.map": "/fps-converter/static/css/main.886aaa86.css.map",
+    "main.c2c2597f.js.map": "/fps-converter/static/js/main.c2c2597f.js.map",
+    "787.79e9388d.chunk.js.map": "/fps-converter/static/js/787.79e9388d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886aaa86.css",
+    "static/js/main.c2c2597f.js"
+  ]
+}
