@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fps-converter/static/css/main.915d4258.css",
-    "main.js": "/fps-converter/static/js/main.da46f628.js",
+    "main.css": "/fps-converter/static/css/main.4ce44c8d.css",
+    "main.js": "/fps-converter/static/js/main.438c778d.js",
     "static/js/787.79e9388d.chunk.js": "/fps-converter/static/js/787.79e9388d.chunk.js",
     "static/media/header.svg": "/fps-converter/static/media/header.de70b71af0138d5cc0ae.svg",
     "index.html": "/fps-converter/index.html",
     "static/media/settings-icon-scale.svg": "/fps-converter/static/media/settings-icon-scale.9d61405858411c5ea434.svg",
-    "main.915d4258.css.map": "/fps-converter/static/css/main.915d4258.css.map",
-    "main.da46f628.js.map": "/fps-converter/static/js/main.da46f628.js.map",
+    "main.4ce44c8d.css.map": "/fps-converter/static/css/main.4ce44c8d.css.map",
+    "main.438c778d.js.map": "/fps-converter/static/js/main.438c778d.js.map",
     "787.79e9388d.chunk.js.map": "/fps-converter/static/js/787.79e9388d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915d4258.css",
-    "static/js/main.da46f628.js"
+    "static/css/main.4ce44c8d.css",
+    "static/js/main.438c778d.js"
   ]
 }
